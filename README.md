@@ -15,7 +15,7 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 | [Minimum Viable Quality](templates/minimum-viable-quality.md) | Deciding what quality is sufficient to launch |
 | [Hallucination risk matrix](templates/hallucination-risk-matrix.md) | Assessing the consequences of unsupported outputs |
 | [Agent readiness checklist](templates/agent-readiness-checklist.md) | Reviewing agents before they take actions |
-| [AI Builder Team prompts](ai-builder-team/README.md) | Creating an AI product team with PM, CTO, research and design roles |
+| [AI Builder Team walkthrough and prompts](ai-builder-team/README.md) | Setting up a PM Twin, CTO and UX Lead in Claude, then adding an Evals Agent |
 
 Try the [fictional customer-feedback copilot example](examples/customer-feedback-copilot.md).
 

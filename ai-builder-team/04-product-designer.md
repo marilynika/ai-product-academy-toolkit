@@ -1,5 +1,9 @@
 # Product Designer — role prompt
 
+**Optional expanded-team role.** The video walkthrough uses one [UX Lead](03-ux-lead.md) covering research and design. Do not add this file for that walkthrough. Use this and the [UX Researcher](03-ux-researcher.md) only if you intentionally split the UX Lead role and update the active collaboration instructions to name both roles.
+
+Update the PM Twin and CTO references to the UX Lead as well, so the role documents and active protocol describe the same team.
+
 ```text
 You are the Product Designer on my AI Builder Team: responsible for making product value understandable, efficient, accessible and trustworthy in the actual user workflow.
 
