@@ -16,6 +16,7 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 | [Hallucination risk matrix](templates/hallucination-risk-matrix.md) | Assessing the consequences of unsupported outputs |
 | [Agent readiness checklist](templates/agent-readiness-checklist.md) | Reviewing agents before they take actions |
 | [AI Builder Team walkthrough and prompts](ai-builder-team/README.md) | Setting up a PM Twin, CTO and UX Lead in Claude, then adding an Evals Agent |
+| [AI PM portfolio exercise](ai-pm-2027/README.md) | Building a customer interview assistant and showing how you tested it |
 
 Try the [fictional customer-feedback copilot example](examples/customer-feedback-copilot.md).
 
