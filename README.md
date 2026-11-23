@@ -1,6 +1,6 @@
 # AI Product Academy Toolkit
 
-**Free AI product management frameworks, installable agent skills, and a growing library of AI applications for product managers and builders.**
+**Free AI product management frameworks, installable agent skills, hands-on masterclasses, and a growing Agent Lab for product managers and builders.**
 
 By **[Dr. Marily Nika](ABOUT.md)** — AI product leader, builder, educator and founder of [AI Product Academy](https://aiproductacademy.com). Ph.D. in Machine Learning, formerly Google and Meta, Executive Fellow at Harvard Business School.
 
@@ -10,7 +10,23 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 
 - **Frameworks:** practical templates and review kits for humans.
 - **Skills:** reusable instructions for compatible AI agents, including Claude Code and Codex.
+- **[Masterclasses](masterclasses/README.md):** ten free hands-on written lessons with exercises and prompts.
 - **Agent Lab:** standalone runnable AI applications (planned; see roadmap below).
+
+## Free masterclasses
+
+[Explore all ten masterclasses and learning paths →](masterclasses/README.md)
+
+- [AI Evals](masterclasses/ai-evals/README.md) — Dataset, rubric and scorecard
+- [AI Agents](masterclasses/ai-agents/README.md) — Multi-agent team workflow
+- [Agent Skills](masterclasses/agent-skills/README.md) — Installable skill
+- [Claude Code](masterclasses/claude-code/README.md) — Tested feedback tagger
+- [OpenAI Codex](masterclasses/codex/README.md) — Evaluation scorecard CLI
+- [AI Feature Launch](masterclasses/ai-feature-launch/README.md) — Go/no-go decision
+- [MCP](masterclasses/mcp/README.md) — Read-only tool connection
+- [AI Product Prototyping](masterclasses/ai-product-prototyping/README.md) — Testable prototype
+- [AI PM Interviews](masterclasses/ai-pm-interviews/README.md) — Mock interview and rubric
+- [AI-Enhanced Product Management](masterclasses/ai-enhanced-pm/README.md) — Reusable PM workflow
 
 ## Start here
 
