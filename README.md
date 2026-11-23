@@ -11,6 +11,7 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 | Resource | Use it when... |
 |---|---|
 | **[NEW: AI Feature Go/No-Go Review Kit](ai-feature-go-no-go/README.md)** | **Run a 55-minute review and make an evidence-backed launch decision** |
+| [AI Feature Go/No-Go Agent Skill](skills/ai-feature-go-no-go/README.md) | Install the review workflow in Claude Code or Codex |
 | [AI PRD template](templates/ai-prd.md) | Defining an AI feature and its evaluation strategy |
 | [Evaluation scorecard](templates/evaluation-scorecard.md) | Comparing AI systems and setting quality gates |
 | [Minimum Viable Quality](templates/minimum-viable-quality.md) | Deciding what quality is sufficient to launch |
