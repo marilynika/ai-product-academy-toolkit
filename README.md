@@ -1,4 +1,4 @@
-# AI Product Academy Toolkit
+# AI Product Academy Toolkit — Dr. Marily Nika
 
 **Free AI product management frameworks, installable agent skills, hands-on masterclasses, and a growing Agent Lab for product managers and builders.**
 
