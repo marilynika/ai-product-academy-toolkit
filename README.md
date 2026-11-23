@@ -11,8 +11,7 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 - **Frameworks:** practical templates and review kits for humans.
 - **[Skills](skills/):** reusable instructions for compatible AI agents, including Claude Code and Codex.
 - **[Masterclasses](masterclasses/README.md):** eight free hands-on written lessons with exercises and prompts.
-- **[Agents](agents/):** reusable AI Builder Team prompts and walkthroughs.
-- **Agent Lab:** standalone runnable AI applications (planned; see roadmap below).
+- **[Agent Lab](agents/README.md):** nine runnable AI assistants and the existing Builder Team walkthrough.
 
 ## Free masterclasses
 
@@ -66,19 +65,21 @@ The new [Go/No-Go Kit](skills/ai-feature-go-no-go/README.md) includes a no-code 
 
 **Educational resources, not a guarantee of product safety or regulatory compliance.** No single error rate is universally acceptable.
 
-## Agent Lab roadmap
+## Agent Lab — nine runnable AI assistants
 
-The following standalone applications are planned, not yet released:
+Each assistant includes a local Python runner, dedicated instructions, fictional example and portable skill. Bring your own OpenAI or Anthropic API key for live runs; offline preview is available. Hosted UI is not yet released.
 
-- [ ] AI Launch Reviewer
-- [ ] AI PRD Builder
-- [ ] AI Evals Designer
-- [ ] Minimum Viable Quality Agent
-- [ ] AI User Research Agent
-- [ ] Agent Readiness Reviewer
-- [ ] AI PM Interview Coach
-- [ ] AI Product Metrics Agent
-- [ ] AI PM Twin
+- [AI Launch Reviewer](agents/ai-launch-reviewer/README.md) — Review AI feature release readiness
+- [AI PRD Builder](agents/ai-prd-builder/README.md) — Draft an AI-specific product requirements document
+- [AI Evals Designer](agents/ai-evals-designer/README.md) — Design evaluation datasets and rubrics
+- [Minimum Viable Quality Agent](agents/minimum-viable-quality/README.md) — Propose context-sensitive minimum quality gates
+- [AI User Research Agent](agents/ai-user-research/README.md) — Synthesize qualitative user research
+- [Agent Readiness Reviewer](agents/agent-readiness-reviewer/README.md) — Assess autonomy, permissions and recovery risks
+- [AI PM Interview Coach](agents/ai-pm-interview-coach/README.md) — Practice AI PM interview reasoning
+- [AI Product Metrics Agent](agents/ai-product-metrics/README.md) — Design product, quality and guardrail metrics
+- [AI PM Twin](agents/ai-pm-twin/README.md) — Support product decisions and weekly planning
+
+[Setup and run the Agent Lab](agents/README.md)
 
 ## About the creator
 
