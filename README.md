@@ -1,10 +1,16 @@
-# AI Product Management Toolkit
+# AI Product Academy Toolkit
 
-**Free frameworks for building AI products that work beyond the demo.**
+**Free AI product management frameworks, installable agent skills, and a growing library of AI applications for product managers and builders.**
 
-By **Dr. Marily Nika** | [AI Product Academy](https://aiproductacademy.com)
+By **[Dr. Marily Nika](ABOUT.md)** — AI product leader, builder, educator and founder of [AI Product Academy](https://aiproductacademy.com). Ph.D. in Machine Learning, formerly Google and Meta, Executive Fellow at Harvard Business School.
 
 Use this toolkit to move from *Can the model do it?* to *Should we ship it, and how will we know?*
+
+## Choose your starting point
+
+- **Frameworks:** practical templates and review kits for humans.
+- **Skills:** reusable instructions for compatible AI agents, including Claude Code and Codex.
+- **Agent Lab:** standalone runnable AI applications (planned; see roadmap below).
 
 ## Start here
 
@@ -45,6 +51,24 @@ The new [Go/No-Go Kit](ai-feature-go-no-go/README.md) includes a no-code workshe
 - Provide safe fallbacks and oversight for consequential actions.
 
 **Educational resources, not a guarantee of product safety or regulatory compliance.** No single error rate is universally acceptable.
+
+## Agent Lab roadmap
+
+The following standalone applications are planned, not yet released:
+
+- [ ] AI Launch Reviewer
+- [ ] AI PRD Builder
+- [ ] AI Evals Designer
+- [ ] Minimum Viable Quality Agent
+- [ ] AI User Research Agent
+- [ ] Agent Readiness Reviewer
+- [ ] AI PM Interview Coach
+- [ ] AI Product Metrics Agent
+- [ ] AI PM Twin
+
+## About the creator
+
+I'm Dr. Marily Nika, an AI product leader, builder, educator and founder of AI Product Academy. I created this toolkit to help product managers become hands-on AI builders. [Read more about my background and mission](ABOUT.md).
 
 ## Contributions
 Suggestions and corrections are welcome through GitHub issues. Do not upload confidential, customer or employer-owned material.
