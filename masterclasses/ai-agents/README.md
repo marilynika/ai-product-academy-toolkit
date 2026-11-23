@@ -43,6 +43,6 @@ Four role artifacts, handoff contract and single-agent comparison.
 - [ ] I recorded limitations, human review needs and next actions.
 
 ## Continue learning
-[AI Builder Team](../../ai-builder-team/README.md)
+[AI Builder Team](../../agents/ai-builder-team/README.md)
 
 [All masterclasses](../README.md)

@@ -13,7 +13,7 @@
 | Privacy and security checks | [ ] | [ ] | [ ] | [ ] |
 | Production monitoring + rollback | [ ] | [ ] | [ ] | [ ] |
 
-Reference: [evaluation scorecard](../templates/evaluation-scorecard.md), [minimum viable quality](../templates/minimum-viable-quality.md), [risk matrix](../templates/hallucination-risk-matrix.md).
+Reference: [evaluation scorecard](../../templates/evaluation-scorecard.md), [minimum viable quality](../../templates/minimum-viable-quality.md), [risk matrix](../../templates/hallucination-risk-matrix.md).
 
 ## Failure disposition
 | Failure category | Impact and affected users | Evidence / frequency from representative set | Decision: acceptable / guardrail / blocker | Owner | Proof needed / due date |

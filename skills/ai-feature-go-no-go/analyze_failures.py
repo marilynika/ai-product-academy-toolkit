@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Summarize a diagnostic worst-output CSV. No external dependencies.
 
-Usage: python3 ai-feature-go-no-go/analyze_failures.py ai-feature-go-no-go/worst-20-template.csv
+Usage: python3 skills/ai-feature-go-no-go/analyze_failures.py skills/ai-feature-go-no-go/worst-20-template.csv
 
 WARNING: These diagnostic counts are not representative failure rates.
 """

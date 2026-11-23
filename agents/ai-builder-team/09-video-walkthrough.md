@@ -19,7 +19,7 @@ If GitHub is new to you:
 1. Stay on that main repository page.
 2. Click **Code**, then **Download ZIP**.
 3. Unzip the download on your computer.
-4. Open the extracted folder, then open **ai-builder-team**.
+4. Open the extracted folder, then open **agents/ai-builder-team**.
 
 You don’t need to install Git or use a terminal. The `.md` files are Markdown files, which are just text with some formatting. You can open them in a text editor.
 
@@ -29,12 +29,12 @@ These are the files we’ll use:
 
 | File | Where it goes |
 |---|---|
-| [01-pm-twin.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/01-pm-twin.md) | Project knowledge, after you personalize it |
-| [02-cto.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/02-cto.md) | Project knowledge |
-| [03-ux-lead.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/03-ux-lead.md) | Project knowledge |
-| [05-collaboration-protocol.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/05-collaboration-protocol.md) | Project instructions for the initial three-role team |
-| [07-evals-agent.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/07-evals-agent.md) | Project knowledge when we add the evaluator |
-| [08-collaboration-with-evals.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/08-collaboration-with-evals.md) | Replaces the initial project instructions when we add the evaluator |
+| [01-pm-twin.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/01-pm-twin.md) | Project knowledge, after you personalize it |
+| [02-cto.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/02-cto.md) | Project knowledge |
+| [03-ux-lead.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/03-ux-lead.md) | Project knowledge |
+| [05-collaboration-protocol.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/05-collaboration-protocol.md) | Project instructions for the initial three-role team |
+| [07-evals-agent.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/07-evals-agent.md) | Project knowledge when we add the evaluator |
+| [08-collaboration-with-evals.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/08-collaboration-with-evals.md) | Replaces the initial project instructions when we add the evaluator |
 
 Use **UX Lead** for this walkthrough. The separate UX Researcher and Product Designer files are optional alternatives for a different team setup.
 
@@ -77,7 +77,7 @@ Return the complete revised role instructions so I can save them.
 
 Read the result and save your version. Also look through the CTO and UX Lead files. The CTO should examine feasibility, reliability, cost, and delivery. The UX Lead covers both user research and the experience someone would actually have using the product.
 
-In the demo, I ask Claude to generate these role documents and the collaboration rules. You can do that too; the [Start Here file](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/00-start-here.md) includes that route. The supplied files let you start with something concrete and edit it.
+In the demo, I ask Claude to generate these role documents and the collaboration rules. You can do that too; the [Start Here file](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/00-start-here.md) includes that route. The supplied files let you start with something concrete and edit it.
 
 ## 4. Put the collaboration rules in project instructions
 
@@ -192,7 +192,7 @@ five-dimension scorecard, and escalations for me.
 Don't invent evidence or treat this concept as ready for real emergencies.
 ```
 
-Your output will vary. I’ve included an [illustrative example](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/11-titanic-example.md) so you can inspect the structure. It isn’t a transcript of the recorded output.
+Your output will vary. I’ve included an [illustrative example](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/11-titanic-example.md) so you can inspect the structure. It isn’t a transcript of the recorded output.
 
 ## 9. Read the scorecard before accepting the recommendation
 
@@ -229,7 +229,7 @@ can review them before updating my saved files and project instructions.
 
 Save the decision locally. When you change a role, keep the previous version and update the corresponding knowledge file. When you change the team’s workflow, update project instructions too.
 
-All the copyable prompts from this walkthrough are also in [10-demo-prompts.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/ai-builder-team/10-demo-prompts.md).
+All the copyable prompts from this walkthrough are also in [10-demo-prompts.md](https://github.com/marilynika/ai-product-academy-toolkit/blob/main/agents/ai-builder-team/10-demo-prompts.md).
 
 ### If something isn’t working
 

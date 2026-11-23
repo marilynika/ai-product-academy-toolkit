@@ -45,6 +45,6 @@ Decision scorecard, prioritized mitigations and rollout plan.
 - [ ] I recorded limitations, human review needs and next actions.
 
 ## Continue learning
-[Review kit](../../ai-feature-go-no-go/README.md) · [Installable skill](../../skills/ai-feature-go-no-go/README.md)
+[Review kit and installable skill](../../skills/ai-feature-go-no-go/README.md)
 
 [All masterclasses](../README.md)

@@ -16,7 +16,7 @@ The files are reusable starter versions of the workshop workflow. They are not v
 
 1. Open the [repository home](https://github.com/marilynika/ai-product-academy-toolkit).
 2. Click **Code → Download ZIP**.
-3. Unzip the download and open the **ai-builder-team** folder.
+3. Unzip the download and open the **agents/ai-builder-team** folder.
 4. Use the files listed below. Markdown (`.md`) files are plain text; you do not need Git, a terminal or a GitHub account to download the public files.
 
 If you only want to copy a prompt, open its file on GitHub and copy the text inside the code block. **Raw** shows the plain-text version.

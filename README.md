@@ -9,8 +9,9 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 ## Choose your starting point
 
 - **Frameworks:** practical templates and review kits for humans.
-- **Skills:** reusable instructions for compatible AI agents, including Claude Code and Codex.
+- **[Skills](skills/):** reusable instructions for compatible AI agents, including Claude Code and Codex.
 - **[Masterclasses](masterclasses/README.md):** eight free hands-on written lessons with exercises and prompts.
+- **[Agents](agents/):** reusable AI Builder Team prompts and walkthroughs.
 - **Agent Lab:** standalone runnable AI applications (planned; see roadmap below).
 
 ## Free masterclasses
@@ -30,14 +31,13 @@ Use this toolkit to move from *Can the model do it?* to *Should we ship it, and 
 
 | Resource | Use it when... |
 |---|---|
-| **[NEW: AI Feature Go/No-Go Review Kit](ai-feature-go-no-go/README.md)** | **Run a 55-minute review and make an evidence-backed launch decision** |
-| [AI Feature Go/No-Go Agent Skill](skills/ai-feature-go-no-go/README.md) | Install the review workflow in Claude Code or Codex |
+| **[AI Feature Go/No-Go Review Kit](skills/ai-feature-go-no-go/README.md)** | **Run a 55-minute review or install the skill in Claude Code or Codex** |
 | [AI PRD template](templates/ai-prd.md) | Defining an AI feature and its evaluation strategy |
 | [Evaluation scorecard](templates/evaluation-scorecard.md) | Comparing AI systems and setting quality gates |
 | [Minimum Viable Quality](templates/minimum-viable-quality.md) | Deciding what quality is sufficient to launch |
 | [Hallucination risk matrix](templates/hallucination-risk-matrix.md) | Assessing the consequences of unsupported outputs |
 | [Agent readiness checklist](templates/agent-readiness-checklist.md) | Reviewing agents before they take actions |
-| [AI Builder Team walkthrough and prompts](ai-builder-team/README.md) | Setting up a PM Twin, CTO and UX Lead in Claude, then adding an Evals Agent |
+| [AI Builder Team walkthrough and prompts](agents/ai-builder-team/README.md) | Setting up a PM Twin, CTO and UX Lead in Claude, then adding an Evals Agent |
 
 Try the [fictional customer-feedback copilot example](examples/customer-feedback-copilot.md).
 
@@ -49,7 +49,7 @@ You don't need a GitHub account to read or download these resources.
 3. **Download one file:** Open it and choose **Raw** or the download icon.
 4. **For developers:** `git clone https://github.com/marilynika/ai-product-academy-toolkit.git`
 
-The new [Go/No-Go Kit](ai-feature-go-no-go/README.md) includes a no-code worksheet and optional Python analyzer with instructions.
+The new [Go/No-Go Kit](skills/ai-feature-go-no-go/README.md) includes a no-code worksheet and optional Python analyzer with instructions.
 
 ## How to use
 1. Pick a framework for the decision you are making.

@@ -47,6 +47,6 @@ Tested CLI, AGENTS.md and reviewable diff.
 - [ ] I recorded limitations, human review needs and next actions.
 
 ## Continue learning
-[Existing failure analyzer](../../ai-feature-go-no-go/README.md)
+[Existing failure analyzer](../../skills/ai-feature-go-no-go/README.md)
 
 [All masterclasses](../README.md)
